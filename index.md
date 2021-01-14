@@ -10,6 +10,9 @@
 
 **Wanna contact me ? Ping me on Telegram by Clicking this big black logo**
  [![Telegram](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg)](https://telegram.dog/refundisillegal)
+
+### [![Telegram](https://img.shields.io/badge/SINGH-blue?style=flat&logo=telegram)](https://telegram.dog/refundisillegal)
+
 **Or**
  **E-mail**
  **@avatarX0TIC@gmail.com**
