@@ -6,9 +6,12 @@ Hey, this is my homepage, so I have to say something about myself. Sometimes it 
 Me just a noob beginner in these type of fields. #ktnxbye 
 
 
-### Support or Contact
+### Contact
 
 Wanna contact me ? Ping me on Telegram by Clicking this big black logo
  [![Telegram](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg)](https://telegram.dog/refundisillegal)
 Or
  E-mail at **@avatarX0TIC@gmail.com**
+
+## Notice
+I will update this webpage in future ,when i will get some time to open this kr when i will find this dead page.
