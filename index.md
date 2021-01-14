@@ -9,4 +9,6 @@ Me just a noob beginner in these type of fields. #ktnxbye
 ### Support or Contact
 
 Wanna contact me ? Ping me on Telegram by Clicking this big black logo
- [![Telegram](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg)](https://telegram.dog/refundisillegal) or e-mail @avatarX0TIC@gmail.com
+ [![Telegram](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg)](https://telegram.dog/refundisillegal)
+Or
+ E-mail at **@avatarX0TIC@gmail.com**
