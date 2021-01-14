@@ -14,4 +14,4 @@ Or
  E-mail at **@avatarX0TIC@gmail.com**
 
 ## Notice
-**I will update this __webpage__ in future ,when i will get some time to open this kr when i will find this dead page.**
+**I will update this _webpage_ in future ,when i will get some time to open this kr when i will find this dead page.**
