@@ -8,10 +8,10 @@
 
 ### Contact
 
-**Wanna contact me ? Ping me on Telegram by Clicking this big black logo**
+**Wanna contact me ? Ping me on Telegram by Clicking this big black logo or blue with my Name**
  [![Telegram](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg)](https://telegram.dog/refundisillegal)
 
-### [![Telegram](https://img.shields.io/badge/SINGH-blue?style=flat&logo=telegram)](https://telegram.dog/refundisillegal)
+### [![Telegram](https://img.shields.io/badge/Anand-blue?style=flat&logo=telegram)](https://telegram.dog/refundisillegal)
 
 **Or**
  **E-mail**
