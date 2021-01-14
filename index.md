@@ -8,4 +8,4 @@ Me just a noob beginner in these type of fields. #ktnxbye
 
 ### Support or Contact
 
-Wanna contact me ? Ping me on Telegram as [Singh](t.me/refundisillegal) or email at @anandsinghrajput119@gmail.com.
+Wanna contact me ? Ping me on [![Telegram](https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/telegram.svg)](https://telegram.dog/refundisillegal) or e-mail @avatarX0TIC@gmail.com
